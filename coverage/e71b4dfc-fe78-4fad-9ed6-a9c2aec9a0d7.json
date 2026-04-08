@@ -1,0 +1,72 @@
+{
+  "scriptId": "315",
+  "url": "file:///C:/Users/Alondra/OneDrive%20-%20sluz/2%20Lehrjahr/2.%20Semester/M426/cards/Card.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 959,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 34,
+          "endOffset": 251,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 290,
+          "endOffset": 673,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "<instance_members_initializer>",
+      "ranges": [
+        {
+          "startOffset": 701,
+          "endOffset": 716,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Card",
+      "ranges": [
+        {
+          "startOffset": 720,
+          "endOffset": 801,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "beats",
+      "ranges": [
+        {
+          "startOffset": 804,
+          "endOffset": 956,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

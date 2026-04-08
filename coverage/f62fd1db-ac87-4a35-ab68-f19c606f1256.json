@@ -1,0 +1,28 @@
+{
+  "scriptId": "314",
+  "url": "file:///C:/Users/Alondra/OneDrive%20-%20sluz/2%20Lehrjahr/2.%20Semester/M426/cards/cards.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 46,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hello",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 45,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

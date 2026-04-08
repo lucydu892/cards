@@ -1,0 +1,39 @@
+{
+  "scriptId": "312",
+  "url": "file:///C:/Users/Alondra/OneDrive%20-%20sluz/2%20Lehrjahr/2.%20Semester/M426/cards/cards_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 409,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 139,
+          "endOffset": 180,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 219,
+          "endOffset": 406,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
