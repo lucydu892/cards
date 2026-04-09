@@ -1,4 +1,4 @@
-import {Card, Formen} from "./Card.ts";
+import {Card, Formen, Werte} from "./Card.ts";
 
 export class Deck {
     played: Card[] = []
@@ -17,5 +17,14 @@ export class Deck {
                 this.unplayed.push(new Card(f, w));
             }
         }
+    }
+    public createKartendeck() {
+        const index = Math.floor(Math.random() * this.unplayed.length);
+        const playingCard = this.unplayed.splice(index, 1) Formen, Werte;
+        this.played.push(playingCard);
+        this.unplayed.slice(playingCard)
+    }
+    public play(): Card |undefined {
+        return new Card();
     }
 }
